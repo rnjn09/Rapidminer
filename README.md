@@ -1,3 +1,5 @@
 # Rapidminer
 Test
-Introduction to Rapid Miner
+Introduction to RapidMiner
+
+1. Correlation Matrix
